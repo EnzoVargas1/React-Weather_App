@@ -1,0 +1,10 @@
+export const ADD_TEMP  = 'ADD_TEMP';
+export const ADD_CITY = 'ADD_CITY';
+export const ADD_LONG = 'ADD_LONG';
+export const ADD_LAT = 'ADD_LAT';
+export const TEMP_FAILED = 'TEMP_FAILED';
+export const CITY_FAILED = 'CITY_FAILED';
+export const LONG_FAILED = 'LONG_FAILED';
+export const LAT_FAILED = 'LAT_FAILED';
+export const ADD_COORD = 'ADD_COORD';
+export const COORD_FAILED = 'COORD_FAILED';
